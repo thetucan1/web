@@ -3546,9 +3546,9 @@ const exchanges = [
       //okex9
       {
         id: '1_9',
-        text: 'Okex',
-        fullName: 'OKEx',
-        description: 'OKEx is an innovative cryptocurrency exchange with advanced financial services. We rely on blockchain technology to provide everything you need for wise trading and investment. Enjoy hundreds of tokens and trading pairs. With OKEx, you can join one of the leading crypto exchanges by trading volume. We’re serving millions of users in over 100 countries. We’re providing spot, margin, futures, options, perpetual swaps trading, DeFi, lending, and mining services.',
+        text: 'Okx',
+        fullName: 'OKx',
+        description: 'OKx (Okex) is an innovative cryptocurrency exchange with advanced financial services. We rely on blockchain technology to provide everything you need for wise trading and investment. Enjoy hundreds of tokens and trading pairs. With OKEx, you can join one of the leading crypto exchanges by trading volume. We’re serving millions of users in over 100 countries. We’re providing spot, margin, futures, options, perpetual swaps trading, DeFi, lending, and mining services.',
         flag: 'images/exchanges/okex.png',
         action: [
           {
