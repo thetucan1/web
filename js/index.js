@@ -6,7 +6,7 @@ $(() => {
     selectionMode: 'single',
     selectByClick: true,
     onItemSelectionChanged(e) {
-      showCountryData(e.itemData);
+      showExchangeData(e.itemData);
     },
   });
 
@@ -17,10 +17,10 @@ $(() => {
     
   }).dxTabPanel('instance');
 
-  showCountryData(exchanges[0].items[0]);
+  showExchangeData(exchanges[0].items[0]);
 
-  function showCountryData(data) {
-   // const citiesData = data.action[0]['cities'];
+  function showExchangeData(data) {
+   
    const coinData = data.action;
 
     if (coinData) {
