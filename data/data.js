@@ -1326,7 +1326,7 @@ const exchanges = [
 
         ]
       },*/
-      //Ftx4
+      //ftx4
       {
         id: '1_4',
         text: 'FTX',
@@ -1392,7 +1392,7 @@ const exchanges = [
                 segWit: '❌',
                 lightningNetwork: '❌',
                 ERC20: '✅',
-                arbitrum: '❌',
+                arbitrum: '✅',
                 algo: '❌',
                 avax: '❌',
                 eos: '❌',
@@ -1401,7 +1401,7 @@ const exchanges = [
                 sol: '✅',
                 luna: '❌',
                 trx: '❌',
-                bsc: '❌',
+                bsc: '✅',
                 huobi: '❌',
                 okex: '❌',
                 flag: 'images/coin/btc.png',
@@ -1412,7 +1412,7 @@ const exchanges = [
                 segWit: '❌',
                 lightningNetwork: '❌',
                 ERC20: '✅',
-                arbitrum: '❌',
+                arbitrum: '✅',
                 algo: '❌',
                 avax: '❌',
                 eos: '❌',
@@ -1421,7 +1421,7 @@ const exchanges = [
                 sol: '✅',
                 luna: '❌',
                 trx: '❌',
-                bsc: '❌',
+                bsc: '✅',
                 huobi: '❌',
                 okex: '❌',
                 flag: 'images/coin/eth.png',
