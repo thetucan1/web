@@ -3543,7 +3543,7 @@ const exchanges = [
         ]
       },
 
-      //okex9
+      //okx9
       {
         id: '1_9',
         text: 'Okx',
@@ -3609,7 +3609,7 @@ const exchanges = [
                 segWit: '❌',
                 lightningNetwork: '❌',
                 ERC20: '✅',
-                arbitrum: '❌',
+                arbitrum: '✅',
                 algo: '❌',
                 avax: '❌',
                 eos: '❌',
@@ -3629,7 +3629,7 @@ const exchanges = [
                 segWit: '❌',
                 lightningNetwork: '❌',
                 ERC20: '✅',
-                arbitrum: '❌',
+                arbitrum: '✅',
                 algo: '❌',
                 avax: '❌',
                 eos: '❌',
