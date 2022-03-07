@@ -1590,7 +1590,7 @@ const exchanges = [
                 omni: '❌',
                 matic: '❌',
                 sol: '❌',
-                luna: '❌',
+                luna: '✅',
                 trx: '❌',
                 bsc: '❌',
                 huobi: '❌',
